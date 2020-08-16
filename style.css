@@ -146,7 +146,7 @@ input {
     background-color: rgb(107, 7, 107);
     color: #eee;
 }
-@media (min-width: 300px) {
+@media (min-width: 500px) {
     .header {
         margin-left: 50px;
     }
